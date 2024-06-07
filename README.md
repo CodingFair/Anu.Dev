@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Blessed Anudeep Prayaga</h1>
-<h3 align="center">A passionate Cloud Engineer | Terraform Developer from India</h3>
+<h3 align="center">A passionate Cloud Engineer || Terraform Developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codingfair" alt="codingfair" /></a> </p>
 
 - 🔭 I’m working as a Cloud Engineer and contributing to Cloud services for building web applications. **Charles Schwab**
 
-- ⚖️ I’m currently learning **GO language, Node.js ~ Express.js and Typescript,**
+- ⚖️ I’m currently learning **GO language, Node.js ~ Express.js and Typescript, Kotlin.**
 
 - 🐿️ I’m looking to collaborate on **Cloud Native Projects**
 
-- 🤝 I’m looking for help with **DevOps**
+- 🤝 I’m looking for help with **DevOps, Site Reliability.**
 
-- 💬 Ask me about **Google Cloud Platform, Terraform, GIT, MySQL, Python, Html, CSS**
+- 💬 Ask me about **Google Cloud Platform, Terraform, GIT, MySQL, Python, Html, CSS.**
 
 - 📫 How to reach me **prayagaanudeep7@gmail.com**
 

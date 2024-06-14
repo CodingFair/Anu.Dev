@@ -5,7 +5,7 @@
 
 - 🔭 I’m working as a Cloud Engineer and contributing to Cloud services for building web applications. **Charles Schwab**
 
-- ⚖️ I’m currently learning **GO language, Node.js ~ Express.js and Typescript, Kotlin.**
+- ⚖️ I’m currently learning **GO language, Node.js ~ Express.js and Typescript, DevOps, Python.**
 
 - 🐿️ I’m looking to collaborate on **Cloud Native Projects**
 
